@@ -1,0 +1,3 @@
+- 연세대학교 일반대학원 계산공학과 대학원 수업 Network Embedding
+  - `Matrix Factorization`, `DeepWalk`, `LINE`, `Node2Vec`
+  - project
